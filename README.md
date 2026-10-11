@@ -33,11 +33,3 @@ Harga contoh API diperlakukan sebagai USD. Nilainya dikonversi memakai konstanta
 - `src/components/ui/button.jsx`: tombol bersama dari scaffold shadcn/Base UI.
 - `architecture.md`, `design.md`, `AGENTS.md`: keputusan struktur, desain, dan aturan pengerjaan.
 
-## Bukti untuk PDF tugas
-
-Sertakan identitas, tujuan, sumber API, potongan kode sesuai tabel materi, dan hasil screenshot: katalog terisi, pencarian berhasil/kosong, serta keranjang setelah tambah dan ubah jumlah. Jelaskan aliran API → state produk → tampilan, dan klik tambah → state keranjang → subtotal. Sertakan bagian CSS/layout yang menjelaskan tampilan; kode lengkap bisa diletakkan di lampiran.
-
-## Batas latihan
-
-Keranjang disimpan di memori dan kembali kosong setelah refresh. Kurs tetap, bukan kurs otomatis. API dan gambar memerlukan internet. Tidak ada login, checkout, pembayaran, database, maupun pengurangan stok; fitur tersebut tidak diminta dalam tugas.
-
